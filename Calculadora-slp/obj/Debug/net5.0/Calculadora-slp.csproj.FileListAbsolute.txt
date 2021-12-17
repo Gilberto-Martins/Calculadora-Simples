@@ -1,0 +1,16 @@
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\Calculadora-slp.exe
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\Calculadora-slp.deps.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\Calculadora-slp.runtimeconfig.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\Calculadora-slp.runtimeconfig.dev.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\Calculadora-slp.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\ref\Calculadora-slp.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\bin\Debug\net5.0\Calculadora-slp.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.csproj.AssemblyReference.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.AssemblyInfoInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.AssemblyInfo.cs
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\ref\Calculadora-slp.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Calculadora-Simples\Calculadora-Simples\Calculadora-slp\obj\Debug\net5.0\Calculadora-slp.genruntimeconfig.cache
